@@ -14,7 +14,7 @@ nba-postgresql-database/
 ├── sql_table_creation/                 # SQL scripts to create database schema (tables, views, indexes)
 ├── transformed_data_for_database_load/ # Cleaned CSVs ready to be loaded into PostgreSQL
 ├── README.md                           # Project documentation
-
+'''
 ---
 
 ## 📌 Features
