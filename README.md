@@ -6,16 +6,15 @@ This project involves collecting, transforming, and visualizing seasonal NBA dat
 
 ## 📁 Project Structure
 
-```plaintext
-nba-postgresql-database/
-├── python_notebooks/                    # Jupyter notebooks for data cleaning and transformation
-├── raw_extracted_source_data/          # Original CSVs from Basketball Reference
-├── sql_analysis_queries/               # Analytical SQL queries (for Power BI or insights)
-├── sql_table_creation/                 # SQL scripts to create database schema (tables, views, indexes)
-├── transformed_data_for_database_load/ # Cleaned CSVs ready to be loaded into PostgreSQL
-├── README.md                           # Project documentation
-'''
----
+This project is organized into several directories for efficient data handling, transformation, and analysis:
+
+| Folder Name                             | Description                                                                 |
+|----------------------------------------|-----------------------------------------------------------------------------|
+| `python_notebooks/`                    | Jupyter notebooks used for data cleaning and transformation        |
+| `raw_extracted_source_data/`          | Raw CSV files directly extracted from Basketball Reference                 |
+| `sql_analysis_queries/`                | SQL scripts used to analyze the data in PostgreSQL                         |
+| `sql_table_creation/`                  | SQL scripts for schema creation and table setup in PostgreSQL              |
+| `transformed_data_for_database_load/` | Cleaned and transformed CSVs ready for database loading                    |
 
 ## 📌 Features
 
