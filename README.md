@@ -28,7 +28,7 @@ This project is organized into several directories for efficient data handling, 
 ## 🔗 Live Dashboard
 
 View the Power BI report here:  
-- [🔍 NBA Player Stats](https://app.powerbi.com/view?r=eyJrIjoiMDUxNmVjNGYtNzQ3My00OGUxLWFhYTMtMjc3NDk5OTEwYmNlIiwidCI6IjljZjNkNGIxLTBiZTYtNGI4NS1iOTVkLWY4NjRkMmUxN2Q2OCIsImMiOjF9)
+- [🔍 NBA Player Stats](https://app.powerbi.com/view?r=eyJrIjoiODU1MjE2MGQtOTk1ZC00N2UwLTk5ZTUtMTMwZTUxOTFkMzJjIiwidCI6IjljZjNkNGIxLTBiZTYtNGI4NS1iOTVkLWY4NjRkMmUxN2Q2OCIsImMiOjF9)
 
 This project was built on the back of a previous project that created the following Tableau dashboards for visualization: 
 - [🔍 NBA Player Stats](https://public.tableau.com/app/profile/carey.harrell/viz/NBAPlayerAnalysis_17104712376710/PlayerOverTime)
